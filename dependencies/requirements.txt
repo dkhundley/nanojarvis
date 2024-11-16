@@ -4,6 +4,7 @@ langchain-core
 langchain-experimental
 langchain-openai
 langchain-text-splitters
+letta
 matplotlib
 numpy
 pandas
